@@ -1,0 +1,38 @@
+{
+	"analytics-uuid": "31c8ee2f-1f4b-4c32-9f2d-8d970c383871",
+	"usage": true,
+	"motd": {
+		"minVersion": "3.0.5"
+	},
+	"motd.fetched": 1507550054780,
+	"user": {
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "117676620598494047940",
+		"email": "octavianrotari@gmail.com",
+		"email_verified": true,
+		"at_hash": "5DPGlVN8NpEVwf_D_ItkVg",
+		"iss": "accounts.google.com",
+		"iat": 1507550061,
+		"exp": 1507553661
+	},
+	"tokens": {
+		"expires_at": 1507555810678,
+		"refresh_token": "1/98L4sQh5rFB6E_RejAVpV9FBWu8BK-5zJduIEUgzZWs",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.GlvfBKkynKnVdagsemOlLBq82gZfT-OBZw2jA2S12QwH0uuHV0ixSuGAukp-ddwklhMbsVoOYRaSVLsJzAWIZklnnzFlrhnU6HgpfYkjiAl_Y662cpUMaOK-nNFC",
+		"token_type": "Bearer",
+		"expires_in": 3600,
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijc0MjQzMGI2ZDRkZjQxMzVlM2JkOTgyYWM2YmVjNDNhMTE4ODhkMWIifQ.eyJhenAiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTc2NzY2MjA1OTg0OTQwNDc5NDAiLCJlbWFpbCI6Im9jdGF2aWFucm90YXJpQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiMnpsWFVKQW5iS01tZGtlcEFIRzAxdyIsImlzcyI6ImFjY291bnRzLmdvb2dsZS5jb20iLCJpYXQiOjE1MDc1NTIyMTAsImV4cCI6MTUwNzU1NTgxMH0.uFbVqVBZEqcJw0vEkyPZ2HAgnM2Fa5MdToilul2cgkQCI89itmEEtdKwUTYIBnNN790pIatg6LtVbnMkVHa6h-lGgojCn_Wu3DWXCGP2zBlJIn8n4oOmB_Zhxtg_CsGXc7tTcQ-Cyd2hFNnfAORzBqhI2-xcYKUXoVLgsUA_GsuyHNFFRtrSCgNTjyYIuoqLT95zKKaLKsZWC_I-LSQomgvAHvYcBJX3dcGAdEukWrUbqaYtX1lETiBMygdgQBgn9erPlU9Dy0bxlzjUyI1KXKWRzqsWAH7wqlNxGrY6s4hQuW7ZesSAqEFs2tXhpigXzvVbHg5FodzD0OvkKzWQ8g"
+	},
+	"activeProjects": {
+		"/Users/octavianrotari/Trials/pwa-experiment": "pwar-e5297"
+	},
+	"lastError": 1507552244294
+}

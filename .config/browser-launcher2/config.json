@@ -1,0 +1,28 @@
+{
+  "browsers": [
+    {
+      "name": "chrome",
+      "re": {},
+      "type": "chrome",
+      "profile": "/Users/octavianrotari/.config/browser-launcher2/chrome-47.0.2526.111_69447b8b",
+      "command": "/Applications/Google Chrome.app",
+      "version": "47.0.2526.111"
+    },
+    {
+      "name": "phantomjs",
+      "re": {},
+      "type": "phantom",
+      "headless": true,
+      "profile": false,
+      "command": "phantomjs",
+      "version": "2.1.1"
+    },
+    {
+      "name": "safari",
+      "type": "safari",
+      "profile": false,
+      "command": "/Applications/Safari.app",
+      "version": "9.0.3"
+    }
+  ]
+}

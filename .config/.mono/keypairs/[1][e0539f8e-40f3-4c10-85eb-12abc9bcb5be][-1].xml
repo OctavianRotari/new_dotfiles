@@ -1,0 +1,9 @@
+﻿<KeyPair>
+	<Properties>
+		<Provider Type="1" />
+		<Container Name="e0539f8e-40f3-4c10-85eb-12abc9bcb5be" />
+	</Properties>
+	<KeyValue>
+		<RSAKeyValue><Modulus>jPUmvyMNIXiY96dnVtF8eHy25+504pisXK+9y/8flGrrkAZecipHm7t2lqIIO7cyUpy9Kw70NIQvrRw+FagyiQDn98MRGTmKb8ZME+4113hFMbkaLTt46LKak8a229Ij3bLJoHfvIAPcRN2Y3v3/UQfcFwk8mHyqM792cqk2paM=</Modulus><Exponent>AQAB</Exponent><P>pPwMZmjQ0FkL2BwAlHJcnGrvGpxp1yVj/wDjRSN02BKPugFFsVaQRO/Ip9izKEp/I45u51DeFfKGykokvgXOcQ==</P><Q>2rflqg+zpI2qLLQHlTuVWC7EL6aOT1dhkwRRifp4X/ROKzuRfV+bFSxi1jZ2xRDK1nm1bjrDrtdbyT7kVLmnUw==</Q><DP>cMFp4BvGin4xIBOTOeEm9igHHdLEayu8uazrpnbjBkE5RVBVRyv4EYUnR79MQj8XwT85AJI+FhXYlSwzDEN/oQ==</DP><DQ>muYOgyhno6yozswZarkuBavpSY39z3clJYezb7KxudM94SRo34/sN0yeGvOrndlMriS4N37qw1LGMHqYHuD0/Q==</DQ><InverseQ>YFmQ4GH3PmsgQzLm6gwuZ9nMQzzgUbduIv+uNcT6fqrUV4R3tTZ9ldd/iVogEAs8bm2OLZNzPxBc03QWGyHc0w==</InverseQ><D>IqojVjwTfZi/3Z+wnTw1ZRgejxkoa5VqRfz+Kw3ZwVEuDyRR07esFpNajZ7ZcX4TBRgAuXca/VNIukTIy+CqVIKkvYX3WhalwQfhLq+tT/c6lIRDro0zmJvpwAoZ9Qu3d/0f01yLgjfAwzyoi/vEqutupTAlo/cCVlP8NcxIEWE=</D></RSAKeyValue>
+	</KeyValue>
+</KeyPair>

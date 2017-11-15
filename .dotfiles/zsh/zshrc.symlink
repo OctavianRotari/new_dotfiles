@@ -1,0 +1,25 @@
+export DOTFILES=$HOME/.dotfiles
+export ZSH=$DOTFILES/zsh
+export PATH="$HOME/.npm-packages/bin:$PATH"
+
+[ -n "$PS1" ] && sh ~/.nightshell/seagrey-dark
+vim(){ sh -c "vim $*"; sh ~/.nightshell/seagrey-dark; clear; }
+
+# display how long all tasks over 10 seconds take
+export REPORTTIME=10
+
+# source all .zsh files inside of the zsh/ directory
+for config ($ZSH/*.zsh) source $config
+
+# initialize autocomplete
+autoload -U compinit add-zsh-hook
+compinit
+
+export EDITOR='nvim'
+export GIT_EDITOR='nvim'
+
+export PATH=/usr/local/bin:$PATH
+
+autoload -U promptinit; promptinit
+prompt pure
+
